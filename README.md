@@ -5,9 +5,9 @@ Pick the best classifier based on accuracy score
 
 ## Dependencies
 
-*Scikit-learn (http://scikit-learn.org/stable/install.html)
-*numpy (pip install numpy)
-*scipy (pip install scipy)
+* Scikit-learn (http://scikit-learn.org/stable/install.html)
+* numpy (pip install numpy)
+* scipy (pip install scipy)
 
 Install missing dependencies using pip
 
