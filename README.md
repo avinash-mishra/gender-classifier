@@ -1,5 +1,5 @@
 # gender-classifier
-Goal of this repo is to test different ml classifiers in a samll in memory dataset and predict gender
+Goal of this repo is to test different ml classifiers in a small in memory dataset and predict gender
 
 Pick the best classifier based on accuracy score
 
